@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Armaan!
 - 👀 I’m interested in creating applications and trying to learn/enhance my skills.
-- 🌱 I’m currently learning how to get into App development using golang
-- 💞️ I am a Sophmore in college
+- 🌱 I like to make cyber security related programs and am currently trying to master golang. I also like to hack(ethically ofc) and am trying to improve my pen test skills
+- 💞️ I am a junior in college! Soon enough I will add my unpushed projects haha
 - 📫 How to reach me: agill7227@gmail.com
 - 😄 Pronouns: he/him
 
